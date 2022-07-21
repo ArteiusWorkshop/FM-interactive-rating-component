@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screen 1](./Screenshot_1.jpg)
-![Screen 2](./Screenshot_2.jpg)
+![Screen 1](./Screenshot_1.png)
+![Screen 2](./Screenshot_2.png)
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-interactive-rating-component)
+- Live Site URL: [Live site URL here](https://fm-interactive-rating-component-ql3l17wjw-arteiusworkshop.vercel.app/)
 
 ## My process
 
